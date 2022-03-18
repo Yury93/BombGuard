@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/Menu.unity
+    guid: 1665bdb79b242244eb55e812db78b69e
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/Fail.unity
+    guid: 2174cae6545a349479c15ff42e4b4474
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/MapLevel_1.unity
+    guid: 22f57044320fe8648ad243d26260371a
+  - enabled: 1
+    path: Assets/Scenes/SquadBomb/Level_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/MapLevel_2.unity
+    guid: c291e304bf256d54a872a6b1a2090f94
+  - enabled: 1
+    path: Assets/Scenes/SquadBomb/Level_2.unity
+    guid: c916d36d77a930b42886bd3b4d3f641b
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/MapLevel_3.unity
+    guid: 7a6de9917b03f1049b0ca4957559f7eb
+  - enabled: 1
+    path: Assets/Scenes/SquadBomb/Level_3.unity
+    guid: 84aa2713dd7302e4fa07f3a876f2c177
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/MapLevel_4.unity
+    guid: dce362fc64a553a49b076e344aa1eeec
+  - enabled: 1
+    path: Assets/Scenes/SquadBomb/Level_4.unity
+    guid: 45d3cbe00a9e7164096f578d56a9e177
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/MapLevel_5.unity
+    guid: b846e1575a75ce140aee1a6618d57f24
+  - enabled: 1
+    path: Assets/Scenes/SquadBomb/Level_5.unity
+    guid: f2a412a24768dd640b4f7d6f92844f4c
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/MapLevel_6.unity
+    guid: fb3f95c930d8fee4b814328ed90d4017
+  - enabled: 1
+    path: Assets/Scenes/SquadBomb/Level_6.unity
+    guid: e653508dec15b5946830b29981b130dc
+  - enabled: 1
+    path: Assets/Scenes/MapLevel/MapLevel_7.unity
+    guid: 1dd8f58251e9fa641a055bd788a495ec
+  - enabled: 1
+    path: Assets/Scenes/SquadBomb/Level_7.unity
+    guid: 391b5a7c3f90d014c92d069f5236fbdc
+  - enabled: 1
+    path: Assets/Scenes/SquadBomb/Level_8.unity
+    guid: 6d47d8d0397b00a479db58c325a810da
+  m_configObjects: {}
